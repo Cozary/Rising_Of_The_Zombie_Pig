@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="GPL-3.0-or-later"
+issueTrackerURL="https://github.com/Cozary/rising_of_the_zombie_pig/issues"
+
+[[mods]]
+modId="rotzp"
+version="1.19.2-1.0.6"
+displayName="Rising Of The Zombie Pig"
+credits = "Thanks you for download my Mod. uwu"
+authors="Cozary and a friend"
+description = '''
+    This silly mod adds a probability to convert pigs into old Zombie Pigmans.
+    '''
+
+[[dependencies.rotzp]]
+    modId="forge"
+    mandatory=true
+    versionRange="[43,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.rotzp]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2,1.20)"
+    ordering="NONE"
+    side="BOTH"

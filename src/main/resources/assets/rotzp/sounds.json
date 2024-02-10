@@ -1,0 +1,49 @@
+{
+  "entity.zombie_pigman.ambient": {
+    "category": "entity",
+    "subtitle": "Pigman ambient",
+    "sounds": [
+      {
+        "name": "rotzp:entity/zpig1",
+        "name": "rotzp:entity/zpig2",
+        "name": "rotzp:entity/zpig3",
+        "name": "rotzp:entity/zpig4",
+        "stream": true
+      }
+    ]
+  },
+  "entity.zombie_pigman.angry": {
+    "category": "entity",
+    "subtitle": "Pigman angry",
+    "sounds": [
+      {
+        "name": "rotzp:entity/zpigangry1",
+        "name": "rotzp:entity/zpigangry2",
+        "name": "rotzp:entity/zpigangry3",
+        "name": "rotzp:entity/zpigangry4",
+        "stream": true
+      }
+    ]
+  },
+  "entity.zombie_pigman.death": {
+    "category": "entity",
+    "subtitle": "Pigman death",
+    "sounds": [
+      {
+        "name": "rotzp:entity/zpigdeath",
+        "stream": true
+      }
+    ]
+  },
+  "entity.zombie_pigman.hurt": {
+    "category": "entity",
+    "subtitle": "Pigman hurts",
+    "sounds": [
+      {
+        "name": "rotzp:entity/zpighurt1",
+        "name": "rotzp:entity/zpighurt2",
+        "stream": true
+      }
+    ]
+  }
+}
